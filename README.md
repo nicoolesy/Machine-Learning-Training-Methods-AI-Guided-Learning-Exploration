@@ -88,11 +88,11 @@ Follow-up Critical Thinking: "Is there such a thing as too much iteration? What 
 
 🎯 Learning Outcomes Achieved
 Through this interactive learning session, I successfully:
-✅ Connected theory to practice - Moved beyond definitions to understand real-world applications
-✅ Developed intuition - Built mental models for how different training methods work
-✅ Identified trade-offs - Recognized strengths and limitations of each approach
-✅ Asked better questions - Improved my ability to probe technical concepts
-✅ Enhanced AI collaboration - Learned how to use AI as a learning partner effectively
+  ✅ Connected theory to practice - Moved beyond definitions to understand real-world applications
+  ✅ Developed intuition - Built mental models for how different training methods work
+  ✅ Identified trade-offs - Recognized strengths and limitations of each approach
+  ✅ Asked better questions - Improved my ability to probe technical concepts
+  ✅ Enhanced AI collaboration - Learned how to use AI as a learning partner effectively
 
 📊 Visual Learning Aids
 To better understand the ML training methods explored in my chatbot session, I've created flowcharts and output visualizations for each learning paradigm:
