@@ -21,7 +21,7 @@ Rather than relying solely on traditional textbook learning, I engaged in a stru
 4. Comparative Analysis - Explored trade-offs between different approaches
 5. Real-World Application - Connected theoretical concepts to practical scenarios
 
-The chatbot guided me through these key topics:
+The chatbot guided me through these key topics as required:
 
 a. How supervised learning models learn from training data
 
@@ -31,11 +31,7 @@ c. How reinforcement learning agents learn optimal actions
 
 d. The importance of algorithms in ML model training
 
-e. Basic steps in training a machine learning model
-
-f. The role of repetition and iteration in model improvement
-
-g. The critical role of examples (data) in training ML models  
+etc.
 
 ### Critical Thinking Demonstrated
 
