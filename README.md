@@ -56,7 +56,7 @@ To better understand the ML training methods explored in my chatbot session, I'v
 
 **Process Flowchart:**
 
-![Supervised Learning Flowchart](images/supervised-learning-flow.png)
+![Supervised Learning Flowchart](supervised-learning-flow.png)
 
 This flowchart shows how supervised learning iteratively improves by comparing predictions to known labels and adjusting weights to minimize errors.
 
