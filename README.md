@@ -62,7 +62,7 @@ This flowchart shows how supervised learning iteratively improves by comparing p
 
 **Program Output:**
 
-![Supervised Learning Output](images/supervised-output.png)
+![Supervised Learning Output](supervised-output.png)
 
 The visualization shows training progress over iterations and the final confusion matrix, demonstrating high accuracy in spam classification.
 
@@ -72,13 +72,13 @@ The visualization shows training progress over iterations and the final confusio
 
 **Process Flowchart:**
 
-![Unsupervised Learning Flowchart](images/unsupervised-learning-flow.png)
+![Unsupervised Learning Flowchart](unsupervised-learning-flow.png)
 
 This flowchart illustrates how unsupervised learning discovers natural groupings in unlabeled data through iterative cluster refinement.
 
 **Program Output:**
 
-![Unsupervised Learning Output](images/unsupervised-output.png)
+![Unsupervised Learning Output](unsupervised-output.png)
 
 The visualization reveals three distinct customer segments discovered without any prior labels, along with their characteristics.
 
@@ -88,13 +88,13 @@ The visualization reveals three distinct customer segments discovered without an
 
 **Process Flowchart:**
 
-![Reinforcement Learning Flowchart](images/reinforcement-learning-flow.png)
+![Reinforcement Learning Flowchart](reinforcement-learning-flow.png)
 
 This flowchart illustrates the exploration-exploitation trade-off and how RL agents learn from rewards and penalties rather than from labeled examples.
 
 **Program Output:**
 
-![Reinforcement Learning Output](images/reinforcement-output.png)
+![Reinforcement Learning Output](reinforcement-output.png)
 
 The visualization shows learning progress over episodes and the optimal path discovered through trial and error.
 
