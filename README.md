@@ -23,13 +23,13 @@ Rather than relying solely on traditional textbook learning, I engaged in a stru
 
 The chatbot guided me through these key topics:
 
-a. How supervised learning models learn from training data
-b. Main approaches used in unsupervised learning
-c. How reinforcement learning agents learn optimal actions
-d. The importance of algorithms in ML model training
-e. Basic steps in training a machine learning model
-f. The role of repetition and iteration in model improvement
-g. The critical role of examples (data) in training ML models  
+- a. How supervised learning models learn from training data
+- b. Main approaches used in unsupervised learning
+- c. How reinforcement learning agents learn optimal actions
+- d. The importance of algorithms in ML model training
+- e. Basic steps in training a machine learning model
+- f. The role of repetition and iteration in model improvement
+- g. The critical role of examples (data) in training ML models  
 
 ### Critical Thinking Demonstrated
 
